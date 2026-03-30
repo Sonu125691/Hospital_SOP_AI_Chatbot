@@ -1,0 +1,170 @@
+{  
+    "blood_bank_operations": {
+        "overall_details_about_this_department": "Blood Bank Operations is responsible for the safe collection, testing, storage, and distribution of blood and blood components within the hospital. It ensures that all blood-related activities follow strict medical and regulatory standards to maintain patient safety. This department handles donor management, blood screening, component preparation, storage under controlled conditions, and issuing compatible blood for transfusion. It plays a critical role in emergency care, surgeries, and treatment of various medical conditions requiring blood support.",
+        "title": "Blood Bank Operations",
+        "sop_code_or_sop_id": "BB-SOP-001",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Blood Bank",
+
+        "approval_authority": "Medical Superintendent\nHead of Pathology Department\nBlood Bank Officer In-Charge",
+
+        "documents_required": "Donor Registration Form (BB-01)\nDonor Consent Form (BB-02)\nBlood Collection Register (BB-03)\nBlood Testing Record Sheet (BB-04)\nBlood Requisition Form (BB-05)\nBlood Issue Log (BB-06)\nTransfusion Reaction Report Form (BB-07)",
+
+        "responsibilities": "Blood Bank Officer:\n- Overall supervision of blood bank operations\n- Approval of blood issue and donor eligibility\n- Ensuring regulatory compliance\n\nLaboratory Technician:\n- Blood testing and processing\n- Equipment maintenance\n- Data entry and record keeping\n\nNursing Staff:\n- Assisting in blood collection and transfusion\n- Monitoring donors and patients\n- Reporting adverse reactions\n\nDuty Doctor:\n- Clinical approval for transfusions\n- Management of transfusion reactions\n- Coordination with blood bank team",
+
+        "purpose": "To define standardized procedures for the safe collection, testing, storage, and transfusion of blood and blood components in order to ensure patient safety and regulatory compliance.",
+
+        "scope": "This SOP applies to all personnel involved in blood bank operations, including Blood Bank Officers, laboratory technicians, nursing staff, and duty doctors. It covers donor management, blood processing, storage, issue, and transfusion support.",
+
+        "procedure": "Donor Registration and Screening:\n1. Register donor details in the blood bank system.\n2. Verify donor identity and consent.\n3. Conduct medical history assessment and physical examination.\n4. Perform hemoglobin and basic health checks.\n5. Approve or defer donor based on eligibility criteria.\n\nBlood Collection:\n1. Prepare sterile blood collection equipment.\n2. Label blood bags with unique identification numbers.\n3. Collect blood under aseptic conditions.\n4. Monitor donor during and after collection.\n5. Record collection details in the blood bank register.\n\nTesting and Processing:\n1. Perform blood grouping (ABO and Rh).\n2. Conduct mandatory infectious disease screening.\n3. Separate whole blood into components if required.\n4. Update test results in the laboratory system.\n5. Quarantine blood units until all tests are cleared.\n\nStorage:\n1. Store whole blood at 2–6°C in designated refrigerators.\n2. Store plasma and platelets under recommended conditions.\n3. Monitor storage temperatures continuously.\n4. Maintain FIFO (First-In, First-Out) inventory control.\n5. Discard expired or contaminated units as per protocol.\n\nIssue and Transfusion Support:\n1. Receive blood requisition form from treating physician.\n2. Verify patient details and blood group compatibility.\n3. Perform cross-matching.\n4. Issue blood unit after approval from Blood Bank Officer.\n5. Record issuance details and handover to nursing staff.\n6. Support transfusion process and monitor for reactions."    
+    },
+    "infection_control_protocol": {
+        "overall_details_about_this_department": "Infection Control Protocol ensures the prevention and control of infections within the hospital to protect patients, staff, and visitors. It focuses on maintaining hygiene standards, proper use of personal protective equipment (PPE), environmental cleanliness, and safe handling of biomedical waste. This department monitors infection risks, implements isolation measures, and conducts surveillance of healthcare-associated infections. It plays a crucial role in maintaining a safe clinical environment and reducing the spread of infectious diseases.",
+        "title": "Infection Control Protocol",
+        "sop_code_or_sop_id": "IC-SOP-002",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Infection Control",
+
+        "approval_authority": "Medical Superintendent\nInfection Control Committee Chairperson\nHospital Administrator",
+
+        "documents_required": "Hand Hygiene Audit Form (IC-01)\nPPE Usage Log (IC-02)\nIsolation Register (IC-03)\nEnvironmental Cleaning Checklist (IC-04)\nInfection Surveillance Report (IC-05)\nIncident Reporting Form (IC-06)",
+
+        "responsibilities": "Infection Control Officer:\n- Overall supervision of infection control activities\n- Policy implementation and compliance monitoring\n- Reporting to hospital management\n\nNursing Staff:\n- Adherence to hand hygiene and PPE protocols\n- Monitoring patient isolation practices\n- Reporting suspected infections\n\nHousekeeping Staff:\n- Environmental cleaning and disinfection\n- Waste segregation and disposal\n- Maintenance of cleaning records\n\nMedical Staff:\n- Clinical assessment of infection risks\n- Prescribing isolation precautions\n- Reporting infection-related incidents",
+
+        "purpose": "To establish standardized infection prevention and control measures in order to minimize the risk of healthcare-associated infections (HAIs) and ensure a safe environment for patients, staff, and visitors.",
+
+        "scope": "This SOP applies to all hospital personnel, including doctors, nurses, laboratory staff, housekeeping staff, and administrative staff. It covers hand hygiene, use of personal protective equipment (PPE), environmental cleaning, isolation precautions, and biomedical waste handling.",
+
+        "procedure": "Hand Hygiene:\n1. Perform hand hygiene before and after every patient contact.\n2. Use alcohol-based hand rubs or soap and water as appropriate.\n3. Wash hands for at least 20 seconds when visibly soiled.\n4. Follow the WHO 5 Moments for Hand Hygiene.\n5. Dry hands using disposable paper towels or air dryers.\n\nPersonal Protective Equipment (PPE):\n1. Wear appropriate PPE based on the level of infection risk.\n2. Don gloves, masks, gowns, and face shields as required.\n3. Change PPE between patients and procedures.\n4. Dispose of used PPE in designated biomedical waste bins.\n5. Perform hand hygiene after removing PPE.\n\nIsolation Precautions:\n1. Identify patients requiring isolation based on clinical assessment.\n2. Place patients in designated isolation rooms when necessary.\n3. Display appropriate isolation signage outside patient rooms.\n4. Restrict visitor access as per infection control guidelines.\n5. Use dedicated equipment for isolated patients.\n\nEnvironmental Cleaning and Disinfection:\n1. Clean and disinfect patient care areas daily.\n2. Use hospital-approved disinfectants.\n3. Focus on high-touch surfaces such as bed rails, door handles, and switches.\n4. Follow terminal cleaning procedures after patient discharge.\n5. Maintain cleaning logs and schedules.\n\nSurveillance and Reporting:\n1. Monitor and record healthcare-associated infections (HAIs).\n2. Report infection incidents to the Infection Control Committee.\n3. Conduct root cause analysis for infection outbreaks.\n4. Implement corrective and preventive actions.\n5. Review infection trends periodically."
+    },
+    "biomedical_waste_management": {
+        "overall_details_about_this_department": "Biomedical Waste Management ensures the safe handling, segregation, transportation, and disposal of medical waste generated within the hospital. It focuses on protecting healthcare workers, patients, and the environment from potential hazards associated with infectious and hazardous waste. This department follows strict regulatory guidelines, uses color-coded segregation systems, and coordinates with authorized disposal agencies. It plays a vital role in maintaining hospital hygiene, preventing contamination, and ensuring environmental safety.",
+        "title": "Biomedical Waste Management",
+        "sop_code_or_sop_id": "BMW-SOP-003",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Waste Management",
+
+        "approval_authority": "Medical Superintendent\nWaste Management Committee Chairperson\nHospital Administrator",
+
+        "documents_required": "Biomedical Waste Segregation Chart (BMW-01)\nWaste Collection Logbook (BMW-02)\nWaste Transportation Record (BMW-03)\nWaste Disposal Certificate File (BMW-04)\nSpill Incident Report Form (BMW-05)\nTraining Attendance Record (BMW-06)",
+
+        "responsibilities": "Waste Management Officer:\n- Overall supervision of biomedical waste handling\n- Compliance monitoring and reporting\n- Coordination with disposal agencies\n\nHousekeeping Staff:\n- Waste collection and transportation\n- Cleaning and disinfection of waste areas\n- Reporting waste handling issues\n\nNursing Staff:\n- Segregation of waste at source\n- Ensuring correct disposal practices\n- Reporting spill incidents\n\nLaboratory Staff:\n- Proper disposal of laboratory waste\n- Compliance with safety protocols\n- Maintenance of waste records",
+
+        "purpose": "To define standardized procedures for the segregation, collection, storage, transportation, and disposal of biomedical waste in order to ensure environmental safety, regulatory compliance, and protection of healthcare workers and the public.",
+
+        "scope": "This SOP applies to all hospital personnel, including doctors, nurses, laboratory staff, housekeeping staff, and waste management personnel. It covers all categories of biomedical waste generated in clinical, laboratory, and support service areas.",
+
+        "procedure": "Waste Segregation:\n1. Segregate biomedical waste at the point of generation.\n2. Use color-coded bins as per biomedical waste management rules.\n3. Ensure non-mixing of biomedical and general waste.\n4. Label waste containers clearly with waste category and date.\n5. Train staff on correct segregation practices.\n\nWaste Collection:\n1. Collect biomedical waste at scheduled intervals.\n2. Use designated trolleys for waste transportation.\n3. Ensure waste bags are properly sealed before collection.\n4. Avoid manual handling of waste bags where possible.\n5. Record waste collection details in the waste logbook.\n\nTemporary Storage:\n1. Store biomedical waste in a designated waste storage area.\n2. Restrict access to authorized personnel only.\n3. Ensure storage area is well-ventilated and secured.\n4. Do not store waste beyond the permissible time limit.\n5. Maintain cleanliness of the storage area.\n\nTransportation and Disposal:\n1. Transport waste to the disposal facility using covered vehicles.\n2. Hand over waste to authorized biomedical waste treatment agencies.\n3. Ensure proper documentation during waste handover.\n4. Maintain records of waste disposal certificates.\n5. Monitor compliance with disposal schedules.\n\nSpill Management:\n1. Isolate the area in case of a waste spill.\n2. Wear appropriate PPE before handling spills.\n3. Clean the spill using approved disinfectants.\n4. Dispose of contaminated materials as biomedical waste.\n5. Report spill incidents to the Waste Management Officer."
+    },
+    "fire_safety_and_emergency_evacuation": {
+        "overall_details_about_this_department": "Fire Safety and Emergency Evacuation ensures the prevention, detection, and effective response to fire-related emergencies within the hospital. It focuses on safeguarding patients, staff, visitors, and hospital infrastructure through proper safety measures, regular drills, and emergency preparedness. This department manages fire risk assessments, alarm systems, evacuation procedures, and coordination with emergency services. It plays a critical role in minimizing damage, ensuring quick response, and maintaining overall safety during fire incidents.",
+        "title": "Fire Safety and Emergency Evacuation",
+        "sop_code_or_sop_id": "FS-SOP-004",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Fire Safety",
+
+        "approval_authority": "Medical Superintendent\nFire Safety Committee Chairperson\nHospital Administrator",
+
+        "documents_required": "Fire Incident Report Form (FS-01)\nFire Drill Attendance Register (FS-02)\nFire Safety Audit Checklist (FS-03)\nFire Extinguisher Inspection Log (FS-04)\nEvacuation Record Sheet (FS-05)",
+
+        "responsibilities": "Fire Safety Officer:\n- Overall supervision of fire safety measures\n- Conducting fire drills and training\n- Liaison with fire department\n\nSecurity Staff:\n- Activation of fire alarms\n- Crowd control and evacuation support\n- Securing affected areas\n\nNursing Staff:\n- Assisting patient evacuation\n- Ensuring patient safety during emergencies\n- Reporting fire incidents\n\nHousekeeping Staff:\n- Removal of combustible materials\n- Supporting fire prevention measures\n- Reporting fire hazards\n\nMedical Staff:\n- Clinical management of evacuated patients\n- Coordination with emergency teams\n- Decision-making during emergencies",
+
+        "purpose": "To establish standardized procedures for fire prevention, early detection, emergency response, and safe evacuation in order to protect patients, staff, visitors, and hospital property from fire-related hazards.",
+
+        "scope": "This SOP applies to all hospital personnel, including doctors, nurses, administrative staff, housekeeping staff, security staff, and visitors. It covers fire prevention measures, response to fire incidents, evacuation protocols, and coordination with emergency services.",
+
+        "procedure": "Fire Prevention:\n1. Ensure all electrical equipment is properly maintained and inspected.\n2. Avoid overloading electrical sockets and extension cords.\n3. Store flammable materials in designated areas.\n4. Maintain clear access to fire exits and corridors.\n5. Conduct regular fire safety audits and inspections.\n\nFire Detection and Alarm:\n1. Activate the nearest fire alarm upon detection of fire or smoke.\n2. Inform the hospital fire control room immediately.\n3. Use public address systems to announce emergency alerts if required.\n4. Identify the location and type of fire.\n5. Do not attempt to silence alarms without authorization.\n\nInitial Fire Response:\n1. Use appropriate fire extinguishers for small, controllable fires.\n2. Follow the PASS technique (Pull, Aim, Squeeze, Sweep).\n3. Do not attempt to fight large or rapidly spreading fires.\n4. Close doors and windows to contain the fire if safe to do so.\n5. Evacuate the area immediately if the fire cannot be controlled.\n\nEvacuation Procedure:\n1. Assist patients and visitors to evacuate calmly.\n2. Prioritize evacuation of critical and immobile patients.\n3. Use designated emergency exits and stairways only.\n4. Do not use elevators during a fire emergency.\n5. Assemble at the designated safe assembly point.\n6. Conduct headcounts to ensure all persons are evacuated.\n\nCoordination with Emergency Services:\n1. Inform the local fire department immediately.\n2. Provide details of the fire location and severity.\n3. Assign a liaison officer to coordinate with firefighters.\n4. Facilitate access routes for fire engines.\n5. Support emergency response operations as required."
+    },
+    "icu_admission_and_triage": {
+        "overall_details_about_this_department": "ICU Admission and Triage ensures the timely, appropriate, and safe admission of critically ill patients to the Intensive Care Unit. It focuses on prioritizing patients based on severity, optimizing the use of ICU resources, and ensuring continuous critical care support. This department manages patient assessment, triage decisions, bed allocation, and safe transfer to the ICU. It plays a crucial role in delivering life-saving care, improving patient outcomes, and maintaining efficient critical care operations.",
+        "title": "ICU Admission and Triage",
+        "sop_code_or_sop_id": "ICU-SOP-005",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Critical Care",
+
+        "approval_authority": "Medical Superintendent\nHead of Critical Care Department\nICU Medical Director",
+
+        "documents_required": "ICU Admission Request Form (ICU-01)\nICU Admission Register (ICU-02)\nPatient Consent Form (ICU-03)\nTriage Assessment Sheet (ICU-04)\nICU Bed Allocation Log (ICU-05)\nTransfer Handover Checklist (ICU-06)",
+
+        "responsibilities": "ICU Coordinator:\n- Coordination of ICU admissions\n- Bed availability management\n- Communication between departments\n\nIntensivist / Duty Consultant:\n- Clinical assessment and admission approval\n- Triage decision-making\n- Oversight of ICU care\n\nNursing Staff:\n- Preparation of ICU bed and equipment\n- Patient handover and monitoring\n- Documentation of vital parameters\n\nEmergency / Ward Doctors:\n- Referral of patients to ICU\n- Pre-transfer stabilization\n- Completion of referral documentation\n\nTransport Team:\n- Safe transfer of patients\n- Maintenance of monitoring equipment\n- Reporting transfer incidents",
+
+        "purpose": "To define standardized procedures for the timely, appropriate, and safe admission of patients to the Intensive Care Unit (ICU) in order to ensure optimal utilization of ICU resources and delivery of critical care services.",
+
+        "scope": "This SOP applies to all hospital personnel involved in ICU admissions, including emergency physicians, intensivists, duty doctors, nursing staff, and ICU coordinators. It covers patient triage, admission criteria, approval workflow, bed allocation, and transfer procedures.",
+
+        "procedure": "Patient Identification and Referral:\n1. Identify patients requiring intensive care based on clinical assessment.\n2. Refer patients from Emergency Department, wards, or operating theatre.\n3. Document clinical indications for ICU admission.\n4. Initiate ICU admission request in the hospital system.\n5. Notify the ICU coordinator of the referral.\n\nTriage and Admission Criteria:\n1. Assess patient severity using standardized scoring systems (e.g., NEWS, SOFA).\n2. Prioritize patients based on urgency and survival benefit.\n3. Confirm availability of ICU beds and required equipment.\n4. Review contraindications for ICU admission if any.\n5. Document triage decision and priority status.\n\nApproval and Bed Allocation:\n1. Obtain approval from the intensivist or duty consultant.\n2. Assign ICU bed based on patient condition and infection status.\n3. Reserve necessary equipment (ventilator, monitors, infusion pumps).\n4. Inform nursing staff of incoming patient.\n5. Update ICU bed management system.\n\nPatient Transfer to ICU:\n1. Stabilize patient before transfer.\n2. Ensure continuous monitoring during transport.\n3. Transfer patient with appropriate medical escort.\n4. Carry complete medical records and investigation reports.\n5. Hand over patient to ICU nursing team upon arrival.\n\nAdmission Documentation:\n1. Complete ICU Admission Form.\n2. Record baseline vitals and clinical parameters.\n3. Obtain informed consent from patient or next of kin.\n4. Update electronic medical records.\n5. Initiate ICU care plan and treatment orders."
+    },
+    "emergency_services_operations": {
+        "overall_details_about_this_department": "Emergency Services Operations ensures the rapid assessment, stabilization, and treatment of patients presenting with urgent and life-threatening conditions. It focuses on timely triage, immediate medical intervention, and efficient coordination with other hospital departments. This department manages patient intake, prioritization based on severity, emergency procedures, and critical decision-making for admission, referral, or discharge. It plays a vital role in saving lives, handling emergencies effectively, and maintaining continuous readiness for both routine and disaster situations.",
+        "title": "Emergency Services Operations",
+        "sop_code_or_sop_id": "ER-SOP-006",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Emergency Department",
+
+        "approval_authority": "Medical Superintendent\nHead of Emergency Department\nHospital Administrator",
+
+        "documents_required": "Emergency Registration Form (ER-01)\nTriage Assessment Sheet (ER-02)\nEmergency Treatment Record (ER-03)\nPatient Monitoring Chart (ER-04)\nReferral Form (ER-05)\nDischarge Instruction Sheet (ER-06)\nDisaster Response Log (ER-07)",
+
+        "responsibilities": "Emergency Department Head:\n- Overall supervision of emergency services\n- Policy implementation and quality assurance\n- Coordination with hospital management\n\nEmergency Physicians:\n- Clinical assessment and treatment\n- Decision-making for admissions and referrals\n- Supervision of emergency procedures\n\nNursing Staff:\n- Triage support and patient monitoring\n- Medication administration\n- Documentation of patient care\n\nParamedics:\n- Pre-hospital care coordination\n- Patient transfer and stabilization\n- Emergency equipment handling\n\nTriage Officer:\n- Patient prioritization\n- Triage documentation\n- Communication with emergency team\n\nSupport Staff:\n- Patient transport\n- Crowd management\n- Maintenance of emergency area cleanliness",
+
+        "purpose": "To define standardized procedures for the efficient, timely, and safe management of patients presenting to the Emergency Department (ED) in order to ensure rapid assessment, stabilization, and appropriate clinical intervention.",
+
+        "scope": "This SOP applies to all personnel involved in emergency services, including emergency physicians, nursing staff, paramedics, triage officers, and support staff. It covers patient intake, triage, emergency treatment, referrals, and coordination with other hospital departments.",
+
+        "procedure": "Patient Reception and Registration:\n1. Receive patients at the emergency reception area.\n2. Register patient details in the hospital information system.\n3. Assign a unique emergency identification number.\n4. Record presenting complaints and arrival time.\n5. Direct patients to the triage area immediately.\n\nTriage and Prioritization:\n1. Assess patients using standardized triage protocols (e.g., ESI, CTAS).\n2. Categorize patients based on severity and urgency.\n3. Prioritize life-threatening conditions for immediate care.\n4. Document triage category and time of assessment.\n5. Reassess patients periodically while waiting.\n\nEmergency Assessment and Stabilization:\n1. Conduct primary survey (Airway, Breathing, Circulation, Disability, Exposure).\n2. Initiate resuscitation measures as required.\n3. Administer emergency medications.\n4. Perform essential investigations (ECG, X-ray, blood tests).\n5. Monitor vital signs continuously.\n\nEmergency Treatment and Procedures:\n1. Provide definitive emergency treatment as per clinical protocols.\n2. Perform minor procedures in the emergency procedure room.\n3. Arrange specialist consultations if required.\n4. Prepare patients for emergency surgery if indicated.\n5. Document all treatments and procedures performed.\n\nReferral, Admission, or Discharge:\n1. Decide patient disposition based on clinical condition.\n2. Admit patients to wards or ICU as required.\n3. Refer patients to other departments or external facilities if needed.\n4. Discharge patients with appropriate instructions and prescriptions.\n5. Update patient records and close emergency case file.\n\nMass Casualty and Disaster Management:\n1. Activate disaster management protocol during mass casualty events.\n2. Establish triage zones for disaster victims.\n3. Mobilize additional staff and resources.\n4. Coordinate with external emergency services.\n5. Maintain disaster response logs and reports."
+    },
+    "operation_theatre_procedures": {
+        "overall_details_about_this_department": "Operation Theatre Procedures ensure the safe, sterile, and efficient conduct of surgical procedures within the hospital. It focuses on maintaining strict aseptic conditions, coordinating surgical teams, and ensuring patient safety throughout pre-operative, intra-operative, and post-operative phases. This department manages surgical planning, anesthesia administration, instrument sterilization, and continuous patient monitoring. It plays a critical role in delivering high-quality surgical care, preventing infections, and ensuring successful clinical outcomes.",
+        "title": "Operation Theatre Procedures",
+        "sop_code_or_sop_id": "OT-SOP-007",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Operation Theatre",
+
+        "approval_authority": "Medical Superintendent\nHead of Surgery Department\nOT Medical Director",
+
+        "documents_required": "Surgical Safety Checklist (OT-01)\nPre-Anesthesia Evaluation Form (OT-02)\nOperative Notes Record (OT-03)\nAnesthesia Record Sheet (OT-04)\nInstrument Count Sheet (OT-05)\nOT Cleaning Log (OT-06)\nSterilization Record (OT-07)",
+
+        "responsibilities": "OT In-Charge:\n- Overall supervision of OT operations\n- Scheduling of surgeries\n- Compliance monitoring\n\nSurgeons:\n- Performing surgical procedures\n- Ensuring surgical safety\n- Documentation of operative notes\n\nAnesthesiologists:\n- Anesthesia management\n- Patient monitoring\n- Management of anesthesia-related complications\n\nNursing Staff:\n- Surgical assistance\n- Instrument handling\n- Patient monitoring and documentation\n\nOT Technicians:\n- Equipment setup and maintenance\n- Sterilization of instruments\n- OT preparation\n\nHousekeeping Staff:\n- Cleaning and disinfection of OT\n- Waste disposal\n- Maintenance of OT hygiene",
+
+        "purpose": "To define standardized procedures for the safe, sterile, and efficient functioning of the Operation Theatre (OT) in order to ensure patient safety, surgical quality, and compliance with infection control and clinical standards.",
+
+        "scope": "This SOP applies to all personnel involved in surgical services, including surgeons, anesthesiologists, nursing staff, OT technicians, housekeeping staff, and support staff. It covers pre-operative preparation, intra-operative procedures, post-operative protocols, and OT sterilization practices.",
+
+        "procedure": "Pre-Operative Preparation:\n1. Verify patient identity, consent, and surgical site.\n2. Review surgical checklist and pre-operative investigations.\n3. Ensure availability of required instruments and implants.\n4. Prepare OT with sterile equipment and supplies.\n5. Conduct pre-operative team briefing (time-out procedure).\n\nPatient Transfer to OT:\n1. Transfer patient using appropriate transport equipment.\n2. Ensure patient is accompanied by medical staff.\n3. Verify patient details at OT reception.\n4. Maintain patient privacy and dignity.\n5. Handover patient to OT nursing team.\n\nIntra-Operative Procedures:\n1. Maintain strict aseptic technique throughout surgery.\n2. Monitor patient vitals continuously.\n3. Follow surgical safety checklist.\n4. Document surgical events and implant details.\n5. Count surgical instruments and sponges before closure.\n\nAnesthesia Management:\n1. Conduct pre-anesthesia evaluation.\n2. Administer anesthesia as per protocol.\n3. Monitor airway, breathing, and circulation.\n4. Record anesthesia details and medications used.\n5. Manage intra-operative complications.\n\nPost-Operative Care and Recovery:\n1. Transfer patient to recovery room post-surgery.\n2. Monitor vital signs and pain levels.\n3. Manage post-operative medications and fluids.\n4. Observe for surgical complications.\n5. Document recovery progress and handover to ward staff.\n\nOT Cleaning and Sterilization:\n1. Clean OT surfaces after each procedure.\n2. Sterilize surgical instruments using approved methods.\n3. Dispose of biomedical waste as per protocol.\n4. Prepare OT for the next surgery.\n5. Maintain sterilization logs and records."
+    },
+    "patient_discharge_process": {
+        "overall_details_about_this_department": "Patient Discharge Process ensures the safe, timely, and well-coordinated discharge of patients from the hospital. It focuses on clinical clearance, proper documentation, patient education, billing settlement, and continuity of care after discharge. This department manages discharge planning, coordination between medical and administrative teams, medication handover, and follow-up arrangements. It plays a crucial role in enhancing patient satisfaction, ensuring smooth transition from hospital to home care, and maintaining complete treatment closure.",
+        "title": "Patient Discharge Process",
+        "sop_code_or_sop_id": "PD-SOP-008",
+        "version": "1.0",
+        "effective_date": "01-Apr-2026",
+        "review_cycle_months": "12 months",
+        "department": "Patient Services",
+
+        "approval_authority": "Medical Superintendent\nHead of Clinical Services\nHospital Administrator",
+
+        "documents_required": "Discharge Summary Form (PD-01)\nNursing Discharge Checklist (PD-02)\nPatient Education Record (PD-03)\nBilling Clearance Form (PD-04)\nPharmacy Medication Handover Sheet (PD-05)\nFollow-Up Appointment Slip (PD-06)\nPatient Acknowledgment Form (PD-07)",
+
+        "responsibilities": "Treating Physician:\n- Clinical assessment and discharge approval\n- Preparation of discharge summary\n- Follow-up planning\n\nNursing Staff:\n- Patient education and counseling\n- Completion of nursing discharge checklist\n- Documentation support\n\nDischarge Coordinator:\n- Coordination of discharge process\n- Communication with departments\n- Scheduling follow-up appointments\n\nBilling Staff:\n- Preparation and verification of hospital bills\n- Financial clearance\n- Insurance coordination\n\nPharmacy Staff:\n- Medication dispensing\n- Patient counseling\n- Medication documentation\n\nSupport Staff:\n- Patient transport\n- Assistance with discharge logistics\n- Record handling",
+
+        "purpose": "To define standardized procedures for the safe, timely, and well-documented discharge of patients from the hospital in order to ensure continuity of care, patient satisfaction, and proper clinical and administrative closure of treatment.",
+
+        "scope": "This SOP applies to all hospital personnel involved in the patient discharge process, including treating physicians, nursing staff, discharge coordinators, billing staff, and pharmacy staff. It covers medical clearance, patient education, documentation, billing, and follow-up planning.",
+
+        "procedure": "Medical Clearance:\n1. Assess patient clinical stability for discharge.\n2. Review investigation reports and treatment outcomes.\n3. Obtain discharge approval from the treating physician.\n4. Document final diagnosis and treatment summary.\n5. Update patient medical records.\n\nDischarge Planning:\n1. Prepare individualized discharge plan.\n2. Schedule follow-up appointments if required.\n3. Arrange home care services or rehabilitation if needed.\n4. Coordinate with patient and family members.\n5. Confirm mode of transport for patient discharge.\n\nPatient Education and Counseling:\n1. Explain discharge instructions to patient and caregiver.\n2. Provide medication instructions and dosage schedule.\n3. Educate on wound care and activity restrictions.\n4. Inform about warning signs and emergency contacts.\n5. Provide lifestyle and dietary advice as applicable.\n\nDocumentation and Handover:\n1. Prepare discharge summary.\n2. Complete nursing discharge checklist.\n3. Provide copies of reports and prescriptions.\n4. Obtain patient acknowledgment signature.\n5. Hand over patient to attendant or transport staff.\n\nBilling and Administrative Clearance:\n1. Prepare final hospital bill.\n2. Verify insurance or payment details.\n3. Obtain billing clearance from finance department.\n4. Collect pending dues if any.\n5. Issue discharge clearance slip.\n\nPharmacy and Medication Handover:\n1. Dispense prescribed discharge medications.\n2. Verify medication list with discharge summary.\n3. Counsel patient on medication usage and side effects.\n4. Provide medication schedule chart.\n5. Record pharmacy handover details."
+    }
+}
