@@ -52,6 +52,70 @@ A **Hospital SOP AI chatbot** designed to answer queries related to Hospital Sta
 
 ---
 
+## 📊 Dataset
+
+Due to limited public availability of structured hospital SOP data, this project uses a synthetic dataset.
+
+* Contains 8 departments, including:
+  * Blood Bank Operations
+  * Infection Control Protocol
+  * Biomedical Waste Management
+  * Fire Safety and Emergency Evacuation
+  * ICU Admission and Triage
+  * Emergency Services Operations
+  * Operation Theatre Procedures
+  * Patient Discharge Process
+    
+* Each SOP includes:
+  * Title, SOP Code, Version, Effective Date
+  * Purpose, Scope
+  * Responsibilities
+  * Documents Required
+  * Detailed Procedures
+  
+Overview of the department
+
+The dataset is designed to simulate real-world hospital SOP structure for experimentation and system design.
+
+---
+
+## 🔍 RAG Pipeline
+
+The RAG system is built using a structured document processing pipeline:
+
+### 1. Source Format
+SOP data initially stored in Markdown format
+
+### 2. Text Splitting Strategy
+
+A two-stage splitting approach is used:
+
+**🧩 Markdown Header Splitting**
+
+* Used MarkdownTextSplitter
+* Separates content based on:
+* Department
+* Section hierarchy
+
+**✂️ Recursive Chunk Splitting**
+
+* Used RecursiveCharacterTextSplitter
+* Breaks content into smaller chunks for better embedding quality
+
+### 3. Embedding & Storage
+
+* Embeddings generated using:
+  * sentence-transformers/all-MiniLM-L6-v2
+* Stored in:
+  * FAISS vector database
+
+### 4. Retrieval
+
+Semantic search using similarity scoring
+Additional filtering + ranking applied for relevance
+
+---
+
 ## Architecture Overview
 
 ```text
